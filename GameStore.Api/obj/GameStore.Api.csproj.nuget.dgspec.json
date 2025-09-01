@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "c:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\rayx7\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\rayx7\\ASPNet_Core_Project\\ASP.NET-Core-Project\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rayx7\\AppData\\Roaming\\NuGet\\NuGet.Config"
