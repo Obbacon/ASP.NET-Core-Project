@@ -24,8 +24,10 @@ List<GameDto> games = [
         new DateOnly(2024, 2, 15))
 ];
 
+//GET /games
+
 app.MapGet("games", ()=> games);
 
-app.MapGet("/", () => "Hello World!");
+
 
 app.Run();
